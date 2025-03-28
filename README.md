@@ -8,7 +8,7 @@ I hold a Master’s degree in Big Data Management and Analysis (2024), with my t
 
 🧠 Seeking a PhD position in Optimization & AI
 
-✍️ Writing articles on ["Medium"](https://medium.com/@Loubna-DS) about tech and research
+✍️ Writing articles on [Medium](https://medium.com/@Loubna-DS) about tech and research
 
 🏆 Winner of the ["She Builds AI"](https://devpost.com/software/prospera-74c1le) Google Women Techmakers Hackathon
 

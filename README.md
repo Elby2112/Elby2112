@@ -20,9 +20,9 @@ I hold a Master’s degree in Big Data Management and Analysis (2024), with my t
 
 [Instagram](https://www.instagram.com/elbylit/)
 
-[Medium](https://medium.com/@Loubna-DS)
+[Medium](https://medium.com/@iamloubna)
 
-⚡ Fun fact: I enjoy both coding & design—turning complex ideas into beautifully optimized solutions!
+
 
 <!--
 **Elby2112/Elby2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
